@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Build results
+dist/
+bin/
+obj/
+
+# Others
+.DS_Store
+.env
+*.swp
+*~
+project.lock.json
+project.fragment.lock.json
+annotations/
